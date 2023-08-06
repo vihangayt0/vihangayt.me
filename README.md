@@ -1,2 +1,2 @@
-# (vihangayt.me)[https://vihangayt.me]
+# [vihangayt.me](https://vihangayt.me)
 VihangaYT Rest Api
